@@ -1,6 +1,6 @@
 # Professional Page
 
-Simple one-pager.
+Simple one-pager, online [here](https://perso.ens-lyon.fr/yoann.poupart).
 
 ## Credits
 
